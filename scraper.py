@@ -48,17 +48,10 @@ def make_soup(html_file):
 def get_name(i, table): 
 	return soup.find('table')
 
-# def get_link1(i, table):
-
-
-# def get_link2(i, table):
-
 class Console:
 	def __init__(self):
 		self.name = ''
 		self.link = ''
-
-
 
 class ROM:
 	def __init__(self):
@@ -66,7 +59,6 @@ class ROM:
 		self.name = ''
 		self.link1 = ''
 		self.link2 = ''
-
 
 def main():
 	dirs = {'gbc':'http://www.emuparadise.me/Nintendo_Game_Boy_Color_ROMs/11',\
@@ -106,13 +98,6 @@ def main():
 			 	game_list[i].sys = k
 				game_list[i].name = x.contents[0].contents[0].contents[0]
 				game_list[i].link1 = emu + x.contents[0].contents[0]['href'] + '-download'
-			 # 	print('Sys: ')
-				# print(game_list[i].sys)
-				# print('Name: ')
-				# print(game_list[i].name)
-				# print('Link: ')
-				# print(game_list[i].link1)
-				# print('')
 				i+=1
 			print("done with" + str(i))
 
@@ -125,9 +110,6 @@ def main():
 			x.link2 = emu + link[0]['href']
 		print ("got link" + str(i))
 		i+=1
-
-
-
 
 	try: 
 		out = open('out.txt', 'w')
@@ -143,71 +125,7 @@ def main():
 
 	out.close()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		#print soup1.prettify()
-		# for b in a[0].children:
-		# 	print str(z) + "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ"
-		#  	print(b)
-		#  	z+=1
-
-		#print (soup.prettify())
-
-	# for x in dirs:
-	# 	print x
-
-
-
-	# for i in range(0,10): # Get most downloaded ROMS
-	# 	gb_list.append(ROM())
-	# 	gb_list[i].sys = 'gb'
-	# 	if i < 10:
-	# 		gb_list[i].name = table.contents[i].contents[0].contents[0].contents[0]
-	# 		gb_list[i].link1 = emu + table.contents[i].contents[0].contents[0]['href']
-	# 	if i >= 10:
-	# 		gb_list[i].name = table.contents[i].contents[0].contents[0].contents[0]
-	# 		gb_list[i].link1 = emu + table.contents[i].contents[0].contents[0]['href']
-
-
-	# 	print('Sys: ')
-	# 	print(gb_list[i].sys)
-	# 	print('Name: ')
-	# 	print(gb_list[i].name)
-	# 	print('Link: ')
-	# 	print(gb_list[i].link1)
-	# 	print('')
-
-
-
-	# one = ROM()
-	# one.sys = 'gb'
-	# one.name = table.contents[0].contents[0].contents[0].contents[0]
-	# one.link1 = emu + table.contents[0].contents[0].contents[0]['href']
-	# # print('GAMEGAMEGAME')
-	# # print(table.contents[0].contents[0].contents[0]['href'])
-	# # print("")
-
-	# print('Sys: ')
-	# print(one.sys)
-	# print('Name: ')
-	# print(one.name)
-	# print('Link: ')
-	# print(one.link1)
-
-
-
+	
 main()
 
 
