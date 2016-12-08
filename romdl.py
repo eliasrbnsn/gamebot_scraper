@@ -56,7 +56,7 @@ def dlUnzipper(url, dest):
 	os.remove("install.zip")
 
 index = printAvailableGames("games.txt")
-gamer = scannerThing("out.txt", int(index))
+gamer = scannerThing("games.txt", int(index))
 destination = "/home/pi/RetroPie/roms/"+gamer[1]
 dlUnzipper(gamer[3], destination)
 
