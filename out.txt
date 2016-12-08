@@ -1,3 +1,4 @@
+system, title, url
 n64,Super Mario 64 (USA),http://www.emuparadise.me/roms/get-download.php?gid=40261&token=a46417574f0ca0ea9f95824e097e6f1b&mirror_available=true
 n64,Legend of Zelda, The - Ocarina of Time (USA),http://www.emuparadise.me/roms/get-download.php?gid=39915&token=babaf6074771a624cc8660e49298cbf5&mirror_available=true
 n64,Super Smash Bros. (USA),http://www.emuparadise.me/roms/get-download.php?gid=40266&token=488ff32695e6bb96cec05fca4e123a46&mirror_available=true
