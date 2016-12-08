@@ -19,93 +19,278 @@ index	system	title	url
 18	atari2600	River Raid (1982) (Activision, Carol Shaw) (AX-020, AX-020-04)	http://www.emuparadise.me/roms/get-download.php?gid=91524&token=822ec200959697acbbd13ef224a853f8&mirror_available=true
 19	atari2600	E.T. - The Extra-Terrestrial (1982) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX2674)	http://www.emuparadise.me/roms/get-download.php?gid=91297&token=801cb0e770943885427093db2f773114&mirror_available=true
 20	atari2600	Breakout - Breakaway IV (Paddle) (1978) (Atari, Steve Jobs, Brad Stewart - Sears) (CX2622 - 6-99813, 49-75107)	http://www.emuparadise.me/roms/get-download.php?gid=91201&token=0cc8b01fbd71e922e5461d352e94b269&mirror_available=true
-21	psx	Digimon World 3 [U]	http://www.emuparadise.me/roms/get-download.php?gid=36776&token=2d98f59abca360ca564f13184fabcef1&mirror_available=true
-22	psx	Crash Team Racing [U]	http://www.emuparadise.me/roms/get-download.php?gid=36718&token=32109dce6956b74a72157040470f97c2&mirror_available=true
-23	psx	Bakusou Kyoudai Let's & Go!! - Eternal Wings (Japan)	http://www.emuparadise.me/roms/get-download.php?gid=53784&token=29bda1a37994de72ed3170635fda8a40&mirror_available=true
-24	psx	Vigilante 8 - 2nd Offense [U]	http://www.emuparadise.me/roms/get-download.php?gid=37771&token=ef0cdbba9c00625666abf5cf032ebfc1&mirror_available=true
-25	psx	Final Fantasy IX [NTSC-U] [Disc1of4]	http://www.emuparadise.me/roms/get-download.php?gid=36898&token=12df9137d1fbbc43700c9272627423a8&mirror_available=true
-26	psx	Final Fantasy VII [NTSC-U] [Disc1of3]	http://www.emuparadise.me/roms/get-download.php?gid=36908&token=c0f37a9eb45caaad5dbc17f89fb3227c&mirror_available=true
-27	psx	Chrono Cross [Disc1of2] [U]	http://www.emuparadise.me/roms/get-download.php?gid=36679&token=ed917bc6e403ecfe7dfd0ac918d219f6&mirror_available=true
-28	psx	Resident Evil 3 - Nemesis (E)	http://www.emuparadise.me/roms/get-download.php?gid=52716&token=9984e3e9fc69bc2478ace899b6c00001&mirror_available=true
-29	psx	Final Fantasy VIII [NTSC-U] [Disc1of4]	http://www.emuparadise.me/roms/get-download.php?gid=36904&token=ffcce72cf7ef8b23f9e85929f6f9c913&mirror_available=true
-30	psx	Brigandine - Legend of Forsena [U]	http://www.emuparadise.me/roms/get-download.php?gid=36626&token=6159da48d356e63297aa62dea919c563&mirror_available=true
-31	gb	Pokemon - Red Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69468&token=ef889bd9eb16fafd5d7cc30b2a907f78&mirror_available=true
-32	gb	Pokemon - Blue Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69465&token=23ae04830253803e23238cba83d24600&mirror_available=true
-33	gb	Super Mario Land (World)	http://www.emuparadise.me/roms/get-download.php?gid=69752&token=c159962852bd78f56ae32845d254db98&mirror_available=true
-34	gb	Super Mario Land 2 - 6 Golden Coins (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69748&token=25bcaa024d396f0c801ebf6a92d11d3d&mirror_available=true
-35	gb	Legend of Zelda, The - Link's Awakening (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69120&token=14a0102d56f78fa0659cf2ce066129f9&mirror_available=true
-36	gb	Wario Land - Super Mario Land 3 (World)	http://www.emuparadise.me/roms/get-download.php?gid=69914&token=7903e077c037047102112afd09be6b72&mirror_available=true
-37	gb	Pokemon - Rote Edition (Germany)	http://www.emuparadise.me/roms/get-download.php?gid=69469&token=9ecf0fdf24a31a352078615d0300853d&mirror_available=true
-38	gb	Tetris (World)	http://www.emuparadise.me/roms/get-download.php?gid=69822&token=a5ae85f4f85a6f2c877a924f882b9649&mirror_available=true
-39	gb	Kirby's Dream Land (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69076&token=dbd5cd8df6eb71a7db7c16ba570b600c&mirror_available=true
-40	gb	Metroid II - Return of Samus (World)	http://www.emuparadise.me/roms/get-download.php?gid=69197&token=a02ebae7019adb33d199c6f38267ae76&mirror_available=true
-41	psp	Final Fantasy VII (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163657&token=2e0eb52a557e43d56df7bc0bee951287&mirror_available=true
-42	psp	Final Fantasy VIII (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163656&token=be026580003864cb691c726b00316ab9&mirror_available=true
-43	psp	Final Fantasy IX (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163653&token=9cb983dbc2364be7d9031bbdd6b0024f&mirror_available=true
-44	psp	Resident Evil 3 - Nemesis (USA)	http://www.emuparadise.me/roms/get-download.php?gid=164176&token=5e9c9d5af968bbe7aebe3cb1fb4ceb97&mirror_available=true
-45	psp	Chrono Cross (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163454&token=8bcf143b1eca32870fcdbfffc75de258&mirror_available=true
-46	psp	Crash Bandicoot (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163487&token=f29ddc16dd07b74d9bd7bc590fd08d6d&mirror_available=true
-47	psp	Resident Evil 2 (Dual Shock) (USA)	http://www.emuparadise.me/roms/get-download.php?gid=164174&token=7dfbd8e38a31038c00b733e1e67c8d18&mirror_available=true
-48	psp	Destruction Derby 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163531&token=c09e88d86d6cf3a5cc636f0c802538fa&mirror_available=true
-49	psp	Castlevania - Symphony of the Night (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163439&token=3a4d8890bce92c204e423c867649d012&mirror_available=true
-50	psp	Digimon World 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163543&token=e5ec3f97efded501c6ac6770879d62af&mirror_available=true
-51	gbc	Pokemon - Crystal Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67956&token=b165f17368d897a0f9869074d663b7ce&mirror_available=true
-52	gbc	Pokemon - Yellow Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67984&token=8ae40724e74bd88b59b8f767d1addc5b&mirror_available=true
-53	gbc	Pokemon - Gold Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67964&token=b9fa6ce8911217e9a1ec38b8ce1c3987&mirror_available=true
-54	gbc	Pokemon - Silver Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67972&token=b9d8675bf63972bb5c542f131e6e6210&mirror_available=true
-55	gbc	Super Mario Bros. Deluxe (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=68201&token=412da293a1f796c5428a71dbf65eb78f&mirror_available=true
-56	gbc	Legend of Zelda, The - Link's Awakening DX (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67647&token=140bb2892de5833db15d68e3764eacf7&mirror_available=true
-57	gbc	Legend of Zelda, The - Oracle of Ages (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67649&token=e2a9384adf00b2114dff4ad5820ed21b&mirror_available=true
-58	gbc	Legend of Zelda, The - Oracle of Seasons (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67651&token=3cfa4917768f73684f9822038f2d6d74&mirror_available=true
-59	gbc	Pokemon Trading Card Game (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67975&token=7df67d492a58e288d2a3ce2acbb95556&mirror_available=true
-60	gbc	Pokemon - Crystal Version (USA, Europe) (Rev A)	http://www.emuparadise.me/roms/get-download.php?gid=67955&token=0a27d91b1854611a9915f8edbe248bb0&mirror_available=true
-61	segacd	Sonic CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=64063&token=4f3d782077ad663ad13bc99dc942450c&mirror_available=true
-62	segacd	Snatcher (U)	http://www.emuparadise.me/roms/get-download.php?gid=64061&token=fe3cd818d22f7dd619b9ba4f5e0c557d&mirror_available=true
-63	segacd	Cadillacs & Dinosaurs - The Second Cataclysm (U)	http://www.emuparadise.me/roms/get-download.php?gid=63948&token=6277fee7c8a91110cfd0458b0f5541a8&mirror_available=true
-64	segacd	Shining Force CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=64051&token=84b71ea715065193162b2823bde17aff&mirror_available=true
-65	segacd	Final Fight CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=63978&token=ce9b2b29341d121b4ba26b9317fc1952&mirror_available=true
-66	segacd	Sonic CD (Europe)	http://www.emuparadise.me/roms/get-download.php?gid=64112&token=3427316c77f4ab9c9f6632d59c9f9cbe&mirror_available=true
-67	segacd	Earthworm Jim - Special Edition (U)	http://www.emuparadise.me/roms/get-download.php?gid=63967&token=4aa4c3824b9d09c387c8ed75bacb20c9&mirror_available=true
-68	segacd	Robo Aleste (U)	http://www.emuparadise.me/roms/get-download.php?gid=64040&token=64025d271088645b836bedd8ca57aeaa&mirror_available=true
-69	segacd	Fifa International Soccer (U)	http://www.emuparadise.me/roms/get-download.php?gid=63977&token=699420863e155a09cf1b7fbb75707f3b&mirror_available=true
-70	segacd	Lunar - The Silver Star (U)	http://www.emuparadise.me/roms/get-download.php?gid=64001&token=a0768d4ab4855e42488dcacddcee9689&mirror_available=true
-71	gba	Pokemon Emerald (U)(TrashMan)	http://www.emuparadise.me/roms/get-download.php?gid=45224&token=80bc0c6b5941c25d7e2c73c4370b1257&mirror_available=true
-72	gba	Pokemon Fire Red (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44933&token=e04d84d2165264d54d1d1ccbda75f61a&mirror_available=true
-73	gba	Pokemon Fire Red (U)(Squirrels)	http://www.emuparadise.me/roms/get-download.php?gid=44874&token=c784f927da13bb1ab58e9f2788d49746&mirror_available=true
-74	gba	Pokemon Leaf Green (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44875&token=d9fc011bf55f8c9b566d442bc4891648&mirror_available=true
-75	gba	Super Mario Advance 4 - Super Mario Bros 3 (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44450&token=b35fa9c332fefb90c8532c0929009029&mirror_available=true
-76	gba	Pokemon Ruby (U)(Mugs)	http://www.emuparadise.me/roms/get-download.php?gid=44145&token=de3c321e6878de856525f50762aba2c7&mirror_available=true
-77	gba	The Legend of Zelda - The Minish Cap (U)(DCS)	http://www.emuparadise.me/roms/get-download.php?gid=45103&token=7b16e0b69226f4a64e15add7c0bbb04f&mirror_available=true
-78	gba	Metroid - Fusion (U)(GBANow)	http://www.emuparadise.me/roms/get-download.php?gid=43928&token=def395ceafaf9f04d36fd5b4b6e0f3da&mirror_available=true
-79	gba	Final Fantasy VI Advance (U)(Xenophobia)	http://www.emuparadise.me/roms/get-download.php?gid=45927&token=a7b01d45eeb9ac2eec54d9210e09b128&mirror_available=true
-80	gba	Golden Sun (U)(Mode7)	http://www.emuparadise.me/roms/get-download.php?gid=43409&token=6c8be05d06b5781ab70d504a7bf0ec4c&mirror_available=true
-81	nes	Super Mario Bros. 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57092&token=05bbe1e08c5352b969cfdce2c9fc220a&mirror_available=true
-82	nes	Wheel of Fortune (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57442&token=1091256f274b173da33a3531c1ab9a85&mirror_available=true
-83	nes	Super Mario Bros. (Japan, USA)	http://www.emuparadise.me/roms/get-download.php?gid=57098&token=72915b23ef3ea294d55c7436c0cf87c3&mirror_available=true
-84	nes	Legend of Zelda, The (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56074&token=f895f8efd702ae5952f38ad2d012664d&mirror_available=true
-85	nes	Contra (USA)	http://www.emuparadise.me/roms/get-download.php?gid=55137&token=4be63dfb7926c0e6646d084785570fde&mirror_available=true
-86	nes	Super Mario Bros. 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57075&token=3dc14cade50a719090eae73238451be0&mirror_available=true
-87	nes	Mega Man (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56246&token=4298ec78a4e8d12b28250d40d64e2bf1&mirror_available=true
-88	nes	Mega Man 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56220&token=96806123ce2340b4fb4a014bf1659dd1&mirror_available=true
-89	nes	Mike Tyson's Punch-Out!! (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56303&token=6ae05bffe3dfc6871b44b521c3d3017d&mirror_available=true
-90	nes	Castlevania (USA)	http://www.emuparadise.me/roms/get-download.php?gid=55051&token=85c11eb01ff4bf7284a2140f4fa84012&mirror_available=true
-91	snes	Super Mario World (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35787&token=648fa7938968d8f6a868341e896ca332&mirror_available=true
-92	snes	Super Mario All-Stars + Super Mario World (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35738&token=ffd54870071cf8b7e83e814e9cf0422c&mirror_available=true
-93	snes	Legend of Zelda, The - A Link to the Past (USA)	http://www.emuparadise.me/roms/get-download.php?gid=34385&token=a9307984863b2c7bff8919ab1515018f&mirror_available=true
-94	snes	Donkey Kong Country (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33505&token=a98e4bb25989ac54eb93a8e5ca67feae&mirror_available=true
-95	snes	Chrono Trigger (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33343&token=fa590e4929cdfb1f06f4c5c2f8468d66&mirror_available=true
-96	snes	Super Mario Kart (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35747&token=784a0052d13b8ce5c4b20ca838b254ab&mirror_available=true
-97	snes	EarthBound (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33602&token=84f3d751141554738eea49ac9f1980fc&mirror_available=true
-98	snes	Megaman X (USA)	http://www.emuparadise.me/roms/get-download.php?gid=34559&token=53b1e78541e7b66759f0c4ece02a8869&mirror_available=true
-99	snes	Super Mario World 2 - Yoshi's Island (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35757&token=d34e29bc459b898c28c7b5073443e0ad&mirror_available=true
-100	snes	Super Mario RPG - Legend of the Seven Stars (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35749&token=afec714a5ba4bb2f132dbc373f9ced25&mirror_available=true
-101	genesis	Sonic the Hedgehog (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=39154&token=0bd3abba7139a933fc5257cf278d8ca3&mirror_available=true
-102	genesis	Sonic the Hedgehog 2 (World)	http://www.emuparadise.me/roms/get-download.php?gid=39137&token=9cebe55313bfb8166ece128684758e81&mirror_available=true
-103	genesis	Sonic & Knuckles + Sonic the Hedgehog 3 (World)	http://www.emuparadise.me/roms/get-download.php?gid=39119&token=ab943a3ae0604218a0a41c42772f3341&mirror_available=true
-104	genesis	Streets of Rage 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=39216&token=fdc091ec61e7bf962e96d5b4de234eb4&mirror_available=true
-105	genesis	Sonic the Hedgehog 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=39140&token=14a1e3cde98c2d7e338d678f9b3ab9dc&mirror_available=true
-106	genesis	Contra - Hard Corps (USA)	http://www.emuparadise.me/roms/get-download.php?gid=38146&token=b6976c7a5e5f25b25e2746a19902e443&mirror_available=true
-107	genesis	Castlevania - Bloodlines (USA)	http://www.emuparadise.me/roms/get-download.php?gid=38093&token=d45962536b6e5e405d6017b1f3bdeab4&mirror_available=true
-108	genesis	Sonic & Knuckles (World)	http://www.emuparadise.me/roms/get-download.php?gid=39121&token=ea884af8d18d50df4a71f0e8bfdfbf9e&mirror_available=true
-109	genesis	Castle of Illusion Starring Mickey Mouse (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=38092&token=0346f71f3ad010cd668469fbfd532040&mirror_available=true
-110	genesis	Aladdin (USA)	http://www.emuparadise.me/roms/get-download.php?gid=37908&token=d3602aa28a3969194515937fab91e72d&mirror_available=true
+21	atari7800	Ace of Aces	http://www.emuparadise.me/roms/get-download.php?gid=91818&token=ba5c3e53acac1f7079cc0983a22b713a&mirror_available=true
+22	atari7800	Alien Brigade	http://www.emuparadise.me/roms/get-download.php?gid=91819&token=1537698c768a47b9df8246b98f65279e&mirror_available=true
+23	atari7800	Asteroids	http://www.emuparadise.me/roms/get-download.php?gid=91820&token=f92f13c1878d5a0350fe33b90c154b2b&mirror_available=true
+24	atari7800	Ballblazer	http://www.emuparadise.me/roms/get-download.php?gid=91821&token=24b2e40915b9757b675b04db9281e9dc&mirror_available=true
+25	atari7800	Barnyard Blaster	http://www.emuparadise.me/roms/get-download.php?gid=91822&token=55ba8075e96e31a718cc53ed14903479&mirror_available=true
+26	atari7800	Basketbrawl	http://www.emuparadise.me/roms/get-download.php?gid=91823&token=3e22e990369f86c917d2f0d863f648c4&mirror_available=true
+27	atari7800	Centipede	http://www.emuparadise.me/roms/get-download.php?gid=91824&token=e073312400050dbc160a406c7927c12f&mirror_available=true
+28	atari7800	Choplifter	http://www.emuparadise.me/roms/get-download.php?gid=91825&token=4aeb11d8847554c9a35f58efa6dfb894&mirror_available=true
+29	atari7800	Commando	http://www.emuparadise.me/roms/get-download.php?gid=91826&token=41c0c360fac7304cb967bca6f5961878&mirror_available=true
+30	atari7800	Crack'ed	http://www.emuparadise.me/roms/get-download.php?gid=91827&token=78109154bae53f40245f0e9e2cbb94f6&mirror_available=true
+31	atari7800	Crossbow	http://www.emuparadise.me/roms/get-download.php?gid=91828&token=dcd0598dec79749059a74eb21515e919&mirror_available=true
+32	atari7800	Dark Chambers	http://www.emuparadise.me/roms/get-download.php?gid=91829&token=f6694af6aabd822c711807bf02443016&mirror_available=true
+33	atari7800	Desert Falcon	http://www.emuparadise.me/roms/get-download.php?gid=91830&token=1610ec30d891f880c5792cb19e13860b&mirror_available=true
+34	atari7800	Dig Dug	http://www.emuparadise.me/roms/get-download.php?gid=91831&token=1c349a9c22e40c17acae71e10cbc8e17&mirror_available=true
+35	atari7800	Donkey Kong	http://www.emuparadise.me/roms/get-download.php?gid=91833&token=239ab5677c22618ea07eb134f1178b15&mirror_available=true
+36	atari7800	Donkey Kong Junior	http://www.emuparadise.me/roms/get-download.php?gid=91832&token=47d2ddd9a87dce42fc94da46ea3a3560&mirror_available=true
+37	atari7800	Double Dragon	http://www.emuparadise.me/roms/get-download.php?gid=91834&token=bd14095d504e252c3c9bc95ef789ced0&mirror_available=true
+38	atari7800	F-18 Hornet	http://www.emuparadise.me/roms/get-download.php?gid=91835&token=f901b2622bd71bf3783e6d9e42c64396&mirror_available=true
+39	atari7800	Fatal Run	http://www.emuparadise.me/roms/get-download.php?gid=91836&token=3902b90e560044e11fbb9d8b4e741134&mirror_available=true
+40	atari7800	Fight Night	http://www.emuparadise.me/roms/get-download.php?gid=91837&token=4a3c17df0b9b652be0bf7b26e381db5d&mirror_available=true
+41	atari7800	Food Fight	http://www.emuparadise.me/roms/get-download.php?gid=91838&token=587c17abf96ff561c5b35d15d8b4a18c&mirror_available=true
+42	atari7800	Galaga	http://www.emuparadise.me/roms/get-download.php?gid=91839&token=a35b19f08667bba858b06cc9d1cf1edb&mirror_available=true
+43	atari7800	GATO	http://www.emuparadise.me/roms/get-download.php?gid=91840&token=69c82878f74bd5356d8b1a0e623ef472&mirror_available=true
+44	atari7800	Hat Trick	http://www.emuparadise.me/roms/get-download.php?gid=91841&token=95d9fd7be0f4d59a09ace0b1aa454b27&mirror_available=true
+45	atari7800	Ikari Warriors	http://www.emuparadise.me/roms/get-download.php?gid=91842&token=5a879f3117dbbb7c2df20c02ce10053c&mirror_available=true
+46	atari7800	Impossible Mission	http://www.emuparadise.me/roms/get-download.php?gid=91843&token=87f13fd35a410500ab22274305e5ed16&mirror_available=true
+47	atari7800	Jinks	http://www.emuparadise.me/roms/get-download.php?gid=91844&token=11d6835dbf27f7330a6ec024f0b38584&mirror_available=true
+48	atari7800	Joust	http://www.emuparadise.me/roms/get-download.php?gid=91845&token=8ba76bf156d8eb8c68a9a1a07e13a8e5&mirror_available=true
+49	atari7800	Karateka	http://www.emuparadise.me/roms/get-download.php?gid=91846&token=104edb6f4ddc802188a2148f79115e27&mirror_available=true
+50	atari7800	Kung-Fu Master	http://www.emuparadise.me/roms/get-download.php?gid=91847&token=a481804808248662a164541a45b26b83&mirror_available=true
+51	atari7800	Mario Bros	http://www.emuparadise.me/roms/get-download.php?gid=91848&token=8c3bac280d17c02359fbd011a864b8b8&mirror_available=true
+52	atari7800	Mat Mania Challenge	http://www.emuparadise.me/roms/get-download.php?gid=91849&token=a8748efc65525a399cda7b10ea71510f&mirror_available=true
+53	atari7800	Mean 18 Ultimate Golf	http://www.emuparadise.me/roms/get-download.php?gid=91850&token=9d7e93892b8538331067750bc25f9371&mirror_available=true
+54	atari7800	Meltdown	http://www.emuparadise.me/roms/get-download.php?gid=91851&token=89ee4817125e26c0489c59a687e735c7&mirror_available=true
+55	atari7800	Midnight Mutants	http://www.emuparadise.me/roms/get-download.php?gid=91852&token=479456b4275c4fa3a26e4853168d39aa&mirror_available=true
+56	atari7800	Missing In Action	http://www.emuparadise.me/roms/get-download.php?gid=91853&token=c06380bfbe36a3c87eafe94e38114f95&mirror_available=true
+57	atari7800	Motor Psycho	http://www.emuparadise.me/roms/get-download.php?gid=91854&token=8f34458b82ac1398dbac7fb8f7eb5cff&mirror_available=true
+58	atari7800	Ms Pac-Man	http://www.emuparadise.me/roms/get-download.php?gid=91855&token=8fedf5282502b0b98a0ebf8efb351ac3&mirror_available=true
+59	atari7800	Ninja Golf	http://www.emuparadise.me/roms/get-download.php?gid=91856&token=27c3d4fcddd7270e4683c3a3bc9c1f6d&mirror_available=true
+60	atari7800	One On One Basketball	http://www.emuparadise.me/roms/get-download.php?gid=91857&token=697ffdb1f679168eed3b1e6afd4a77e3&mirror_available=true
+61	atari7800	Pete Rose Baseball	http://www.emuparadise.me/roms/get-download.php?gid=91858&token=aecd021d89032c4bbe77f6cf1868b0d4&mirror_available=true
+62	atari7800	Pit Fighter	http://www.emuparadise.me/roms/get-download.php?gid=91859&token=38d45b5425c610361d7b0f12e989bc61&mirror_available=true
+63	atari7800	Planet Smashers	http://www.emuparadise.me/roms/get-download.php?gid=91860&token=8d70fc8f2c95f7e80f875d56e8f1faf7&mirror_available=true
+64	atari7800	Pole Position 2	http://www.emuparadise.me/roms/get-download.php?gid=91861&token=0632898f2738d59868ef5185718f6807&mirror_available=true
+65	atari7800	Rampage	http://www.emuparadise.me/roms/get-download.php?gid=91862&token=668e5d8d7edc863f922ce13762cccd0a&mirror_available=true
+66	atari7800	Real Sports Baseball	http://www.emuparadise.me/roms/get-download.php?gid=91863&token=f373ea6c71722b15742fa118aad11166&mirror_available=true
+67	atari7800	Rescue on Fractalus	http://www.emuparadise.me/roms/get-download.php?gid=91864&token=d08f10bc02b94a4f49148e300355388d&mirror_available=true
+68	atari7800	Robotron 2084	http://www.emuparadise.me/roms/get-download.php?gid=91865&token=4d2ffa274cc3c6e78f7826691ee738cb&mirror_available=true
+69	atari7800	Scrapyard Dog	http://www.emuparadise.me/roms/get-download.php?gid=91866&token=8678a3bd036210fca39859c701a3b826&mirror_available=true
+70	atari7800	Sentinel	http://www.emuparadise.me/roms/get-download.php?gid=91867&token=850b85cfb9c7befdd589f93bc3004d7f&mirror_available=true
+71	atari7800	Summer Games	http://www.emuparadise.me/roms/get-download.php?gid=91868&token=a6584956b1dea2547ca39a778d880e13&mirror_available=true
+72	atari7800	Super Huey	http://www.emuparadise.me/roms/get-download.php?gid=91869&token=346da81cf87516e13bc2b232694a4146&mirror_available=true
+73	atari7800	Super Skateboardin'	http://www.emuparadise.me/roms/get-download.php?gid=91870&token=1cf0f4db9c8473c811be940493bd6750&mirror_available=true
+74	atari7800	Tank Command	http://www.emuparadise.me/roms/get-download.php?gid=91871&token=ea2e04c96d44bb1ba81f5ce5bd2bea0c&mirror_available=true
+75	atari7800	Title Match Pro Wrestling	http://www.emuparadise.me/roms/get-download.php?gid=91872&token=8d5af3d56bc4e7f35a726331b74f76f1&mirror_available=true
+76	atari7800	Tomcat - The F-14 Fighter Simulator	http://www.emuparadise.me/roms/get-download.php?gid=91873&token=f61b8742c3e01f983e5606d4e7f35491&mirror_available=true
+77	atari7800	Touchdown Football	http://www.emuparadise.me/roms/get-download.php?gid=91874&token=a2775d60bbde62cd2aff0d55ad63bff5&mirror_available=true
+78	atari7800	Tower Toppler	http://www.emuparadise.me/roms/get-download.php?gid=91875&token=6b3dc21120481afbe055ccdd0624ff49&mirror_available=true
+79	atari7800	Water Ski	http://www.emuparadise.me/roms/get-download.php?gid=91876&token=5d30d96c1740c55c7aa9aaf7bcc0187d&mirror_available=true
+80	atari7800	Winter Games	http://www.emuparadise.me/roms/get-download.php?gid=91877&token=2cfd2d937a4093f1f2353b02b693623b&mirror_available=true
+81	atari7800	Xenophobe	http://www.emuparadise.me/roms/get-download.php?gid=91878&token=9c18d33e8b4d7ead803e3197000d5963&mirror_available=true
+82	atari7800	Xevious	http://www.emuparadise.me/roms/get-download.php?gid=91879&token=e600a12d89001d8ac2d2deb1416b01ab&mirror_available=true
+83	psx	Digimon World 3 [U]	http://www.emuparadise.me/roms/get-download.php?gid=36776&token=2d98f59abca360ca564f13184fabcef1&mirror_available=true
+84	psx	Crash Team Racing [U]	http://www.emuparadise.me/roms/get-download.php?gid=36718&token=32109dce6956b74a72157040470f97c2&mirror_available=true
+85	psx	Bakusou Kyoudai Let's & Go!! - Eternal Wings (Japan)	http://www.emuparadise.me/roms/get-download.php?gid=53784&token=29bda1a37994de72ed3170635fda8a40&mirror_available=true
+86	psx	Vigilante 8 - 2nd Offense [U]	http://www.emuparadise.me/roms/get-download.php?gid=37771&token=ef0cdbba9c00625666abf5cf032ebfc1&mirror_available=true
+87	psx	Final Fantasy IX [NTSC-U] [Disc1of4]	http://www.emuparadise.me/roms/get-download.php?gid=36898&token=12df9137d1fbbc43700c9272627423a8&mirror_available=true
+88	psx	Final Fantasy VII [NTSC-U] [Disc1of3]	http://www.emuparadise.me/roms/get-download.php?gid=36908&token=c0f37a9eb45caaad5dbc17f89fb3227c&mirror_available=true
+89	psx	Chrono Cross [Disc1of2] [U]	http://www.emuparadise.me/roms/get-download.php?gid=36679&token=ed917bc6e403ecfe7dfd0ac918d219f6&mirror_available=true
+90	psx	Resident Evil 3 - Nemesis (E)	http://www.emuparadise.me/roms/get-download.php?gid=52716&token=9984e3e9fc69bc2478ace899b6c00001&mirror_available=true
+91	psx	Final Fantasy VIII [NTSC-U] [Disc1of4]	http://www.emuparadise.me/roms/get-download.php?gid=36904&token=ffcce72cf7ef8b23f9e85929f6f9c913&mirror_available=true
+92	psx	Brigandine - Legend of Forsena [U]	http://www.emuparadise.me/roms/get-download.php?gid=36626&token=6159da48d356e63297aa62dea919c563&mirror_available=true
+93	gb	Pokemon - Red Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69468&token=ef889bd9eb16fafd5d7cc30b2a907f78&mirror_available=true
+94	gb	Pokemon - Blue Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69465&token=23ae04830253803e23238cba83d24600&mirror_available=true
+95	gb	Super Mario Land (World)	http://www.emuparadise.me/roms/get-download.php?gid=69752&token=c159962852bd78f56ae32845d254db98&mirror_available=true
+96	gb	Super Mario Land 2 - 6 Golden Coins (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69748&token=25bcaa024d396f0c801ebf6a92d11d3d&mirror_available=true
+97	gb	Legend of Zelda, The - Link's Awakening (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69120&token=14a0102d56f78fa0659cf2ce066129f9&mirror_available=true
+98	gb	Wario Land - Super Mario Land 3 (World)	http://www.emuparadise.me/roms/get-download.php?gid=69914&token=7903e077c037047102112afd09be6b72&mirror_available=true
+99	gb	Pokemon - Rote Edition (Germany)	http://www.emuparadise.me/roms/get-download.php?gid=69469&token=9ecf0fdf24a31a352078615d0300853d&mirror_available=true
+100	gb	Tetris (World)	http://www.emuparadise.me/roms/get-download.php?gid=69822&token=a5ae85f4f85a6f2c877a924f882b9649&mirror_available=true
+101	gb	Kirby's Dream Land (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=69076&token=dbd5cd8df6eb71a7db7c16ba570b600c&mirror_available=true
+102	gb	Metroid II - Return of Samus (World)	http://www.emuparadise.me/roms/get-download.php?gid=69197&token=a02ebae7019adb33d199c6f38267ae76&mirror_available=true
+103	psp	Final Fantasy VII (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163657&token=2e0eb52a557e43d56df7bc0bee951287&mirror_available=true
+104	psp	Final Fantasy VIII (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163656&token=be026580003864cb691c726b00316ab9&mirror_available=true
+105	psp	Final Fantasy IX (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163653&token=9cb983dbc2364be7d9031bbdd6b0024f&mirror_available=true
+106	psp	Resident Evil 3 - Nemesis (USA)	http://www.emuparadise.me/roms/get-download.php?gid=164176&token=5e9c9d5af968bbe7aebe3cb1fb4ceb97&mirror_available=true
+107	psp	Chrono Cross (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163454&token=8bcf143b1eca32870fcdbfffc75de258&mirror_available=true
+108	psp	Crash Bandicoot (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163487&token=f29ddc16dd07b74d9bd7bc590fd08d6d&mirror_available=true
+109	psp	Resident Evil 2 (Dual Shock) (USA)	http://www.emuparadise.me/roms/get-download.php?gid=164174&token=7dfbd8e38a31038c00b733e1e67c8d18&mirror_available=true
+110	psp	Destruction Derby 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163531&token=c09e88d86d6cf3a5cc636f0c802538fa&mirror_available=true
+111	psp	Castlevania - Symphony of the Night (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163439&token=3a4d8890bce92c204e423c867649d012&mirror_available=true
+112	psp	Digimon World 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=163543&token=e5ec3f97efded501c6ac6770879d62af&mirror_available=true
+113	gbc	Pokemon - Crystal Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67956&token=b165f17368d897a0f9869074d663b7ce&mirror_available=true
+114	gbc	Pokemon - Yellow Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67984&token=8ae40724e74bd88b59b8f767d1addc5b&mirror_available=true
+115	gbc	Pokemon - Gold Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67964&token=b9fa6ce8911217e9a1ec38b8ce1c3987&mirror_available=true
+116	gbc	Pokemon - Silver Version (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67972&token=b9d8675bf63972bb5c542f131e6e6210&mirror_available=true
+117	gbc	Super Mario Bros. Deluxe (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=68201&token=412da293a1f796c5428a71dbf65eb78f&mirror_available=true
+118	gbc	Legend of Zelda, The - Link's Awakening DX (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=67647&token=140bb2892de5833db15d68e3764eacf7&mirror_available=true
+119	gbc	Legend of Zelda, The - Oracle of Ages (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67649&token=e2a9384adf00b2114dff4ad5820ed21b&mirror_available=true
+120	gbc	Legend of Zelda, The - Oracle of Seasons (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67651&token=3cfa4917768f73684f9822038f2d6d74&mirror_available=true
+121	gbc	Pokemon Trading Card Game (USA)	http://www.emuparadise.me/roms/get-download.php?gid=67975&token=7df67d492a58e288d2a3ce2acbb95556&mirror_available=true
+122	gbc	Pokemon - Crystal Version (USA, Europe) (Rev A)	http://www.emuparadise.me/roms/get-download.php?gid=67955&token=0a27d91b1854611a9915f8edbe248bb0&mirror_available=true
+123	segacd	Sonic CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=64063&token=4f3d782077ad663ad13bc99dc942450c&mirror_available=true
+124	segacd	Snatcher (U)	http://www.emuparadise.me/roms/get-download.php?gid=64061&token=fe3cd818d22f7dd619b9ba4f5e0c557d&mirror_available=true
+125	segacd	Cadillacs & Dinosaurs - The Second Cataclysm (U)	http://www.emuparadise.me/roms/get-download.php?gid=63948&token=6277fee7c8a91110cfd0458b0f5541a8&mirror_available=true
+126	segacd	Shining Force CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=64051&token=84b71ea715065193162b2823bde17aff&mirror_available=true
+127	segacd	Final Fight CD (U)	http://www.emuparadise.me/roms/get-download.php?gid=63978&token=ce9b2b29341d121b4ba26b9317fc1952&mirror_available=true
+128	segacd	Sonic CD (Europe)	http://www.emuparadise.me/roms/get-download.php?gid=64112&token=3427316c77f4ab9c9f6632d59c9f9cbe&mirror_available=true
+129	segacd	Earthworm Jim - Special Edition (U)	http://www.emuparadise.me/roms/get-download.php?gid=63967&token=4aa4c3824b9d09c387c8ed75bacb20c9&mirror_available=true
+130	segacd	Robo Aleste (U)	http://www.emuparadise.me/roms/get-download.php?gid=64040&token=64025d271088645b836bedd8ca57aeaa&mirror_available=true
+131	segacd	Fifa International Soccer (U)	http://www.emuparadise.me/roms/get-download.php?gid=63977&token=699420863e155a09cf1b7fbb75707f3b&mirror_available=true
+132	segacd	Lunar - The Silver Star (U)	http://www.emuparadise.me/roms/get-download.php?gid=64001&token=a0768d4ab4855e42488dcacddcee9689&mirror_available=true
+133	atarilynx	[BIOS] Atari Lynx (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91890&token=8f9d66c06c3a14a9a32cb3b4a0173d49&mirror_available=true
+134	atarilynx	A.P.B. - All Points Bulletin (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91882&token=751928d203aca12e38f49684b5611563&mirror_available=true
+135	atarilynx	Alien vs Predator (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91881&token=50810e4aed396d765cf10b6cc60e37f8&mirror_available=true
+136	atarilynx	Awesome Golf (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91883&token=3ccecf22b6583088a10b250a3fc71ef5&mirror_available=true
+137	atarilynx	Baseball Heroes (USA, Europe) [b]	http://www.emuparadise.me/roms/get-download.php?gid=91884&token=e0b71aae77e19c52b00d8ed1de6eb0a8&mirror_available=true
+138	atarilynx	Basketbrawl (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91885&token=37e7ff74ad4610bf27a887c519622b80&mirror_available=true
+139	atarilynx	Batman Returns (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91886&token=f2d39f93d97729f910e060e0917e6200&mirror_available=true
+140	atarilynx	Battle Wheels (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91887&token=bb72690be53eca89a5df484d05a86b03&mirror_available=true
+141	atarilynx	Battlezone 2000 (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91888&token=91255ccaf2beadda4376b1f615220c8a&mirror_available=true
+142	atarilynx	Bill & Ted's Excellent Adventure (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91889&token=95d2a087f8cef334fdf33bc89c344901&mirror_available=true
+143	atarilynx	Block Out (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91891&token=8db5386d683374bc89a298bcc22ea5ce&mirror_available=true
+144	atarilynx	Blue Lightning (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91893&token=6070aead53e31ecf3b0f78716f7c6c55&mirror_available=true
+145	atarilynx	Blue Lightning (USA) (Demo)	http://www.emuparadise.me/roms/get-download.php?gid=91892&token=ec2c27a8b62821c414ad15d186449423&mirror_available=true
+146	atarilynx	Bubble Trouble (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91894&token=00a2e2745d86d4003ba9c414027292cd&mirror_available=true
+147	atarilynx	California Games (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91895&token=567011311ba5704671bd1c6a6f4c7228&mirror_available=true
+148	atarilynx	Centipede (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91896&token=49fc2bb9964bdbd094f71790aa61e04d&mirror_available=true
+149	atarilynx	Checkered Flag (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91897&token=30d41ec41654a169f8c46283b1398278&mirror_available=true
+150	atarilynx	Chip's Challenge (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91898&token=dc3f57826dc53e960611a727c2460c7d&mirror_available=true
+151	atarilynx	Crystal Mines II (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91899&token=b00c2e4271477948e33aa8f1a0dfbef8&mirror_available=true
+152	atarilynx	Daemonsgate (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91900&token=6841ba3a1b5d5c357577649eb3b6cf15&mirror_available=true
+153	atarilynx	Desert Strike - Return to the Gulf (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91901&token=26313719172fbbf94dec39572e499b77&mirror_available=true
+154	atarilynx	Dinolympics (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91902&token=0baa271e56bf64a9971adf91cc7e1f2c&mirror_available=true
+155	atarilynx	Dirty Larry - Renegade Cop (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91903&token=7d43aae3813c4fdc11d959fd34915bf7&mirror_available=true
+156	atarilynx	Double Dragon (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91904&token=ce66604ec946307cc5ce63e8a612c660&mirror_available=true
+157	atarilynx	Dracula the Undead (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91905&token=2ed446547c9c4506f0ae170153ceff9e&mirror_available=true
+158	atarilynx	Electrocop (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91906&token=04ad88ae0e66ab9ae42ff9b600a8b4f7&mirror_available=true
+159	atarilynx	European Soccer Challenge (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91907&token=3d904953abdc4bfb2b62eb038d7b3644&mirror_available=true
+160	atarilynx	Eye of the Beholder (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91908&token=497f8d8042d6f9f85139158dc430b141&mirror_available=true
+161	atarilynx	Fat Bobby (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91909&token=a1e4995f86e2ee0a97dd79a1b231c443&mirror_available=true
+162	atarilynx	Fidelity Ultimate Chess Challenge, The (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91910&token=b5f3647fac3a4ba5aed85ab68baf868e&mirror_available=true
+163	atarilynx	Gates of Zendocon, The (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91911&token=e8e23b61da8d1f64f39b9dc232b60609&mirror_available=true
+164	atarilynx	Gauntlet - The Third Encounter (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91912&token=016ed982c4f18ba2cee76975c5361675&mirror_available=true
+165	atarilynx	Gordo 106 - The Mutated Lab Monkey (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91913&token=bfd398f29848991389df7e9a31d03383&mirror_available=true
+166	atarilynx	Hard Drivin' (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91914&token=6914466b914dab9ba9672a153e2be501&mirror_available=true
+167	atarilynx	Hockey (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91915&token=fc0e6d0a8f394b2d9a1abc77d694156e&mirror_available=true
+168	atarilynx	Hydra (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91916&token=69be2fdaf0448b9a00afb3fcf06a5ad6&mirror_available=true
+169	atarilynx	Ishido - The Way of Stones (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91917&token=4da52dbce76c79007798138e537f9a3f&mirror_available=true
+170	atarilynx	Jimmy Connors' Tennis (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91918&token=8f1110076a1d87ece52e6b0b67f0c832&mirror_available=true
+171	atarilynx	Joust (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91919&token=7943b461d921b6136dd8f936b1073f57&mirror_available=true
+172	atarilynx	Klax (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91920&token=c4ada2f4a133f405bc7878f9371590f1&mirror_available=true
+173	atarilynx	Krazy Ace - Miniature Golf (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91921&token=290bd24030d9f66a99f40678003bee97&mirror_available=true
+174	atarilynx	Kung Food (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91922&token=ecc6875079bd51068b57572d8ef7d794&mirror_available=true
+175	atarilynx	Lemmings (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91923&token=2fc3724546ced3e3b2061abfa78ac8d7&mirror_available=true
+176	atarilynx	Lexis (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91924&token=2a56a0dab362fb9f032ad486febb683a&mirror_available=true
+177	atarilynx	Loopz (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91925&token=0951521165cb980ced6c509dc53fc834&mirror_available=true
+178	atarilynx	Lynx Casino (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91926&token=16c248fe0a65f3aff2f1cde57be900d5&mirror_available=true
+179	atarilynx	Lynx II Production Test Program V0.02 (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91927&token=2ec2247f88752b64f07ca7a7388d4762&mirror_available=true
+180	atarilynx	Malibu Bikini Volleyball (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91928&token=fea56028c2a1603cf302db0939506259&mirror_available=true
+181	atarilynx	Marlboro Go! (Europe) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91929&token=592b4365764ba0510ab665e7e444b94e&mirror_available=true
+182	atarilynx	Ms. Pac-Man (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91930&token=30f865ae01f4c665c318f7fc17f887e3&mirror_available=true
+183	atarilynx	NFL Football (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91931&token=e837e4a6301f8ce7cc513a6d317c11d0&mirror_available=true
+184	atarilynx	Ninja Gaiden (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91933&token=46dbb6fec1e83aea47d3b51e45d20dd5&mirror_available=true
+185	atarilynx	Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91932&token=fad7889017cffd55e85c6da2b26319f4&mirror_available=true
+186	atarilynx	Pac-Land (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91934&token=0ed82a93cb9dc28796fd576a8c81c7d5&mirror_available=true
+187	atarilynx	Paperboy (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91935&token=953ae90284c48acd9756529f221d7940&mirror_available=true
+188	atarilynx	Pinball Jam (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91936&token=b8eda99612ca3f78b78099e7518d52d1&mirror_available=true
+189	atarilynx	Pit Fighter - The Ultimate Competition (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91937&token=cba36d1382c54ddb8f169c7e7d814ec3&mirror_available=true
+190	atarilynx	Power Factor (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91938&token=a5d80d0defc09ece0fc5e57ee6ebbec0&mirror_available=true
+191	atarilynx	Qix (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91939&token=264abc4f4c25f5769bff95d0430c89b9&mirror_available=true
+192	atarilynx	Raiden (USA) (v3.0)	http://www.emuparadise.me/roms/get-download.php?gid=91940&token=0dd5a9a1f5b63251fc70b78e49acbfd7&mirror_available=true
+193	atarilynx	Rampage (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91941&token=ba68705fb4615563a00e0fdc8c38c581&mirror_available=true
+194	atarilynx	Rampart (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91942&token=934f6a3e9011685ebbf7dc234bb3a48f&mirror_available=true
+195	atarilynx	Road Riot 4WD (USA) (Proto)	http://www.emuparadise.me/roms/get-download.php?gid=91944&token=1cf8361a59bd77c50fde1b94be9019ce&mirror_available=true
+196	atarilynx	RoadBlasters (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91943&token=753a3873b62ad5927786d5b05423e53a&mirror_available=true
+197	atarilynx	Robo-Squash (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91945&token=f71ac5f88296671d1eec75efe4670ff9&mirror_available=true
+198	atarilynx	Robotron 2084 (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91946&token=fecc91ca093ecd947d3fe9ac129984f2&mirror_available=true
+199	atarilynx	Rygar - Legendary Warrior (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91947&token=fd9036764058c72c932b26bb356d6132&mirror_available=true
+200	atarilynx	S.T.U.N. Runner (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91952&token=3cdc8388b36df6ef1fd0ca899fadc476&mirror_available=true
+201	atarilynx	Scrapyard Dog (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91948&token=fe3db1679216d3dad17df3baf7c1975c&mirror_available=true
+202	atarilynx	Shadow of the Beast (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91949&token=e9edcb0b325778475d0fff31e6699b2c&mirror_available=true
+203	atarilynx	Shanghai (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91950&token=1900b9fc270c70dc2498b3021a6a4846&mirror_available=true
+204	atarilynx	Steel Talons (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91951&token=6696e82f271372cc95b6eb25fc37ce80&mirror_available=true
+205	atarilynx	Super Asteroids, Missile Command (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91953&token=a114776387c201b2d1fcb2d5466af268&mirror_available=true
+206	atarilynx	Super Off-Road (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91954&token=5a64a8139ad2745dc70047cbedcf853b&mirror_available=true
+207	atarilynx	Super Skweek (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91955&token=dbe9dbb7bf34a2609c0f05815c21d69a&mirror_available=true
+208	atarilynx	Switchblade II (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91956&token=19aea4fdb6aee5dee0b13aae233ec757&mirror_available=true
+209	atarilynx	Todd's Adventures in Slime World (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91957&token=b98e23bea6c9e68385552e6af589da79&mirror_available=true
+210	atarilynx	Toki (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91958&token=2434b8a38240a3b95bb6c6a28ec50482&mirror_available=true
+211	atarilynx	Tournament Cyberball 2072 (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91959&token=1cfe6646796fe46a6b9fcea9270cf997&mirror_available=true
+212	atarilynx	Turbo Sub (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91960&token=b766ad975a6526bbc37c8f014ea880b5&mirror_available=true
+213	atarilynx	Viking Child (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91961&token=e6e22a2adad4e31b5b44ac1955738179&mirror_available=true
+214	atarilynx	Warbirds (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91962&token=c934e10d974595feaf0e49c16503eee9&mirror_available=true
+215	atarilynx	World Class Soccer (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91963&token=7d8e28576987b1d8f3c2c5b58eaf4acf&mirror_available=true
+216	atarilynx	Xenophobe (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91964&token=39664c01688105c10da9c68488afea29&mirror_available=true
+217	atarilynx	Xybots (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91965&token=29f9efc9d85c614a5d09781f65d133f0&mirror_available=true
+218	atarilynx	Zarlor Mercenary (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=91966&token=f4caaebd9212d5ed7187ffdb07936525&mirror_available=true
+219	gba	Pokemon Emerald (U)(TrashMan)	http://www.emuparadise.me/roms/get-download.php?gid=45224&token=80bc0c6b5941c25d7e2c73c4370b1257&mirror_available=true
+220	gba	Pokemon Fire Red (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44933&token=e04d84d2165264d54d1d1ccbda75f61a&mirror_available=true
+221	gba	Pokemon Fire Red (U)(Squirrels)	http://www.emuparadise.me/roms/get-download.php?gid=44874&token=c784f927da13bb1ab58e9f2788d49746&mirror_available=true
+222	gba	Pokemon Leaf Green (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44875&token=d9fc011bf55f8c9b566d442bc4891648&mirror_available=true
+223	gba	Super Mario Advance 4 - Super Mario Bros 3 (U)(Independent)	http://www.emuparadise.me/roms/get-download.php?gid=44450&token=b35fa9c332fefb90c8532c0929009029&mirror_available=true
+224	gba	Pokemon Ruby (U)(Mugs)	http://www.emuparadise.me/roms/get-download.php?gid=44145&token=de3c321e6878de856525f50762aba2c7&mirror_available=true
+225	gba	The Legend of Zelda - The Minish Cap (U)(DCS)	http://www.emuparadise.me/roms/get-download.php?gid=45103&token=7b16e0b69226f4a64e15add7c0bbb04f&mirror_available=true
+226	gba	Metroid - Fusion (U)(GBANow)	http://www.emuparadise.me/roms/get-download.php?gid=43928&token=def395ceafaf9f04d36fd5b4b6e0f3da&mirror_available=true
+227	gba	Final Fantasy VI Advance (U)(Xenophobia)	http://www.emuparadise.me/roms/get-download.php?gid=45927&token=a7b01d45eeb9ac2eec54d9210e09b128&mirror_available=true
+228	gba	Golden Sun (U)(Mode7)	http://www.emuparadise.me/roms/get-download.php?gid=43409&token=6c8be05d06b5781ab70d504a7bf0ec4c&mirror_available=true
+229	nes	Super Mario Bros. 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57092&token=05bbe1e08c5352b969cfdce2c9fc220a&mirror_available=true
+230	nes	Wheel of Fortune (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57442&token=1091256f274b173da33a3531c1ab9a85&mirror_available=true
+231	nes	Super Mario Bros. (Japan, USA)	http://www.emuparadise.me/roms/get-download.php?gid=57098&token=72915b23ef3ea294d55c7436c0cf87c3&mirror_available=true
+232	nes	Legend of Zelda, The (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56074&token=f895f8efd702ae5952f38ad2d012664d&mirror_available=true
+233	nes	Contra (USA)	http://www.emuparadise.me/roms/get-download.php?gid=55137&token=4be63dfb7926c0e6646d084785570fde&mirror_available=true
+234	nes	Super Mario Bros. 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=57075&token=3dc14cade50a719090eae73238451be0&mirror_available=true
+235	nes	Mega Man (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56246&token=4298ec78a4e8d12b28250d40d64e2bf1&mirror_available=true
+236	nes	Mega Man 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56220&token=96806123ce2340b4fb4a014bf1659dd1&mirror_available=true
+237	nes	Mike Tyson's Punch-Out!! (USA)	http://www.emuparadise.me/roms/get-download.php?gid=56303&token=6ae05bffe3dfc6871b44b521c3d3017d&mirror_available=true
+238	nes	Castlevania (USA)	http://www.emuparadise.me/roms/get-download.php?gid=55051&token=85c11eb01ff4bf7284a2140f4fa84012&mirror_available=true
+239	sega32x	32X Sample Program - Celtic - PWM Test (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90857&token=47bfac57b85a5ac4119701b6c21d2370&mirror_available=true
+240	sega32x	36 Great Holes Starring Fred Couples (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90858&token=815a2c30fe4fbd54d9fbe2c38736a6e2&mirror_available=true
+241	sega32x	After Burner Complete (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90859&token=a3f384b802b821b725ddb87377d2bca2&mirror_available=true
+242	sega32x	BC Racers (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90860&token=c0076f4b0faf6772d437b4004743411d&mirror_available=true
+243	sega32x	Blackthorne (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90861&token=a07e2ad44ce955cc92a6194eecec1b57&mirror_available=true
+244	sega32x	Brutal Unleashed - Above the Claw (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90862&token=141f667046836c4466491f7521215170&mirror_available=true
+245	sega32x	Cosmic Carnage (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90863&token=e1f20963a1007cc1ac2499c99c5deed0&mirror_available=true
+246	sega32x	Darxide (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90864&token=3ee50fffb8f7542003c83e33ad5e32fa&mirror_available=true
+247	sega32x	Doom (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90865&token=18b4cf68440807f4e0def48262cc9b3e&mirror_available=true
+248	sega32x	ECCO the Dolphin CinePak Demo (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90866&token=93ca5f091acfe020e1cf0e053384e8b6&mirror_available=true
+249	sega32x	FIFA International Soccer 96 (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90867&token=2e879ba54ab23091f96447eb8998dda9&mirror_available=true
+250	sega32x	Knuckles' Chaotix (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90868&token=d87267d89c9c8461a245e47e9baa0781&mirror_available=true
+251	sega32x	Kolibri (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90869&token=c0ed85ed9b363623b23c6385a1766e93&mirror_available=true
+252	sega32x	Mars Sample Program (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90870&token=7b8cb6aa0f755858c2a7114dd95448e3&mirror_available=true
+253	sega32x	Metal Head (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90871&token=ac16e1a099a8ec68a81e4558a9a91f80&mirror_available=true
+254	sega32x	Mortal Kombat II (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90872&token=479a139d074ee3bdb0b433de76e21908&mirror_available=true
+255	sega32x	Motocross Championship (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90873&token=d4dfb54095a78fe54ed8cad329b7abc0&mirror_available=true
+256	sega32x	NBA Jam Tournament Edition (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90874&token=d2392d8bcd484dbca84af44599b6f3e5&mirror_available=true
+257	sega32x	NFL Quarterback Club (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90875&token=da7ea7cf061d75273f70521f3f6aa286&mirror_available=true
+258	sega32x	Pitfall (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90876&token=8b93fcc985dbcbf151ec9e80bada4499&mirror_available=true
+259	sega32x	Primal Rage (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90877&token=41ad7a3fa9b60edefc2769dfd48708ed&mirror_available=true
+260	sega32x	RBI Baseball 95 (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90878&token=fe7dcceec9effffd72791f5af7288f62&mirror_available=true
+261	sega32x	Sangokushi IV (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90879&token=41aae870e70f5f7493b1c18a4d182d4c&mirror_available=true
+262	sega32x	Shadow Squadron (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90880&token=539de98e9ac3f3299fd47c07550ecada&mirror_available=true
+263	sega32x	Space Harrier (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90881&token=07465cd6c0abcbd843a0cdb987e03a95&mirror_available=true
+264	sega32x	Spider-Man - Web of Fire (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90882&token=5ae6b12e88f45b37aa65f4f28dd0dc47&mirror_available=true
+265	sega32x	Star Trek - Starfleet Academy Bridge Simulator (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90883&token=1359ad55ef1127f73dd0af904b0313c4&mirror_available=true
+266	sega32x	Star Wars Arcade (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90884&token=7277c071b54f0029f492170d98b859cc&mirror_available=true
+267	sega32x	T-MEK (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90886&token=5b6e3cc000992893bb87a5cba6ebaf9b&mirror_available=true
+268	sega32x	Tempo (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90885&token=05f6cbbf9e57018335cd00194b1286f8&mirror_available=true
+269	sega32x	Toughman Contest (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90887&token=9f080f01cca1dbfbdb2e0feea4d82a4e&mirror_available=true
+270	sega32x	Virtua Fighter (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90888&token=41b0b8153780fdae4d17ffea4acd0641&mirror_available=true
+271	sega32x	Virtua Racing Deluxe (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90889&token=85f171db983e03e85a8ed3cb875a7dd9&mirror_available=true
+272	sega32x	World Series Baseball '95 (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90890&token=069edb8a23c0091924bbde284f8f0366&mirror_available=true
+273	sega32x	WWF RAW (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90891&token=7b77c631925d6e755d6df210e251d722&mirror_available=true
+274	sega32x	WWF Wrestlemania Arcade (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90892&token=fae5df7305e4d6266f2b81db88f7c3d9&mirror_available=true
+275	sega32x	Zaxxon's Motherbase 2000 (32X)	http://www.emuparadise.me/roms/get-download.php?gid=90893&token=9ccc1b0d4b0ee6dc355c41989f2fe9bf&mirror_available=true
+276	snes	Super Mario World (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35787&token=648fa7938968d8f6a868341e896ca332&mirror_available=true
+277	snes	Super Mario All-Stars + Super Mario World (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35738&token=ffd54870071cf8b7e83e814e9cf0422c&mirror_available=true
+278	snes	Legend of Zelda, The - A Link to the Past (USA)	http://www.emuparadise.me/roms/get-download.php?gid=34385&token=a9307984863b2c7bff8919ab1515018f&mirror_available=true
+279	snes	Donkey Kong Country (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33505&token=a98e4bb25989ac54eb93a8e5ca67feae&mirror_available=true
+280	snes	Chrono Trigger (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33343&token=fa590e4929cdfb1f06f4c5c2f8468d66&mirror_available=true
+281	snes	Super Mario Kart (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35747&token=784a0052d13b8ce5c4b20ca838b254ab&mirror_available=true
+282	snes	EarthBound (USA)	http://www.emuparadise.me/roms/get-download.php?gid=33602&token=84f3d751141554738eea49ac9f1980fc&mirror_available=true
+283	snes	Megaman X (USA)	http://www.emuparadise.me/roms/get-download.php?gid=34559&token=53b1e78541e7b66759f0c4ece02a8869&mirror_available=true
+284	snes	Super Mario World 2 - Yoshi's Island (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35757&token=d34e29bc459b898c28c7b5073443e0ad&mirror_available=true
+285	snes	Super Mario RPG - Legend of the Seven Stars (USA)	http://www.emuparadise.me/roms/get-download.php?gid=35749&token=afec714a5ba4bb2f132dbc373f9ced25&mirror_available=true
+286	genesis	Sonic the Hedgehog (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=39154&token=0bd3abba7139a933fc5257cf278d8ca3&mirror_available=true
+287	genesis	Sonic the Hedgehog 2 (World)	http://www.emuparadise.me/roms/get-download.php?gid=39137&token=9cebe55313bfb8166ece128684758e81&mirror_available=true
+288	genesis	Sonic & Knuckles + Sonic the Hedgehog 3 (World)	http://www.emuparadise.me/roms/get-download.php?gid=39119&token=ab943a3ae0604218a0a41c42772f3341&mirror_available=true
+289	genesis	Streets of Rage 2 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=39216&token=fdc091ec61e7bf962e96d5b4de234eb4&mirror_available=true
+290	genesis	Sonic the Hedgehog 3 (USA)	http://www.emuparadise.me/roms/get-download.php?gid=39140&token=14a1e3cde98c2d7e338d678f9b3ab9dc&mirror_available=true
+291	genesis	Contra - Hard Corps (USA)	http://www.emuparadise.me/roms/get-download.php?gid=38146&token=b6976c7a5e5f25b25e2746a19902e443&mirror_available=true
+292	genesis	Castlevania - Bloodlines (USA)	http://www.emuparadise.me/roms/get-download.php?gid=38093&token=d45962536b6e5e405d6017b1f3bdeab4&mirror_available=true
+293	genesis	Sonic & Knuckles (World)	http://www.emuparadise.me/roms/get-download.php?gid=39121&token=ea884af8d18d50df4a71f0e8bfdfbf9e&mirror_available=true
+294	genesis	Castle of Illusion Starring Mickey Mouse (USA, Europe)	http://www.emuparadise.me/roms/get-download.php?gid=38092&token=0346f71f3ad010cd668469fbfd532040&mirror_available=true
+295	genesis	Aladdin (USA)	http://www.emuparadise.me/roms/get-download.php?gid=37908&token=d3602aa28a3969194515937fab91e72d&mirror_available=true
