@@ -99,7 +99,15 @@ def main():
 				game_list[i].name = x.contents[0].contents[0].contents[0]
 				game_list[i].link1 = emu + x.contents[0].contents[0]['href'] + '-download'
 				i+=1
-			print("done with" + str(i))
+		else: 
+			list_div = soup.find(id="list-of-games")
+			for x in list_div.contents:
+				game_list.append(ROM())
+				game_list[i].sys = k
+				game_list[i].name = x.contents[0]
+				game_list[i].link1 = emu + x['href'] + '-download'
+				i+=1
+		print ("Done parsing " + k + " games")
 
 
 	i = 0
@@ -108,7 +116,7 @@ def main():
 		link = soup.find_all(id="download-link")
 		if len(link) > 0:
 			x.link2 = emu + link[0]['href']
-		print ("got link" + str(i))
+		print ("Got link " + str(i))
 		i+=1
 
 	try: 
@@ -121,6 +129,7 @@ def main():
 	i = 1
 	for x in game_list:
 		out.write(str(i) + '\t' + x.sys + '\t' + x.name + '\t' + x.link2 + '\n')
+		print ("Wrote game number: " + str(i))
 		i+=1
 
 	out.close()
