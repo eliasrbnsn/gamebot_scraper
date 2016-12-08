@@ -95,29 +95,36 @@ def main():
 	sys_soup = []
 	game_list = []
 
-	num = 0
+	i = 0
 
 	for k, v in dirs.iteritems():
 		soup = BeautifulSoup(get_html(v), "html.parser")
-		table = gb_soup.find('table')
-		i = 0
-		for x in table:
-			game_list.append(ROM())
-		 	game_list[i].sys = k
-			game_list[i].name = x.contents[0].contents[0].contents[0]
-			game_list[i].link1 = emu + x.contents[0].contents[0]['href'] + '-download'
-			i+=1
-		print("done with" + str(num))
-		num+=1
+		table = soup.find('table')
+		if table != None:
+			for x in table:
+				game_list.append(ROM())
+			 	game_list[i].sys = k
+				game_list[i].name = x.contents[0].contents[0].contents[0]
+				game_list[i].link1 = emu + x.contents[0].contents[0]['href'] + '-download'
+			 # 	print('Sys: ')
+				# print(game_list[i].sys)
+				# print('Name: ')
+				# print(game_list[i].name)
+				# print('Link: ')
+				# print(game_list[i].link1)
+				# print('')
+				i+=1
+			print("done with" + str(i))
 
 
-
+	i = 0
 	for x in game_list:
 		soup = BeautifulSoup(get_html_cap(x.link1), "html.parser")
 		link = soup.find_all(id="download-link")
 		if len(link) > 0:
 			x.link2 = emu + link[0]['href']
-	#	print x.link2
+		print ("got link" + str(i))
+		i+=1
 
 
 
@@ -127,9 +134,12 @@ def main():
 	except IOError: 
 		print "cannot open file" "out"
 
+	out.write("index\tsystem\ttitle\turl\n")
 
+	i = 1
 	for x in game_list:
-		out.write(x.sys + ',' + x.name + ',' + x.link2 + '\n')
+		out.write(str(i) + '\t' + x.sys + '\t' + x.name + '\t' + x.link2 + '\n')
+		i+=1
 
 	out.close()
 
