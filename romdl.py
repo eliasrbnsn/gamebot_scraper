@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import urllib, urllib2
 import zipfile
 import requests
@@ -5,6 +6,7 @@ import StringIO
 import cookielib
 import os
 import csv
+import figlet
 
 systems = ['gbc', 'sega32x', 'genesis', 'segacd', 'atari2600', 'n64', 'atari7800', 'gb', 'psp', \
 			'snes', 'atarilynx', 'gba', 'nes', 'psx']
@@ -12,34 +14,89 @@ def printAvailableGames(file):
 
 	with open(file, 'rb') as f:
 		reader = csv.reader(f, delimiter="\t")
+		row_count = sum(1 for row in f)
 		j = 0
 		for syst in systems:
 			print str(j) +": "+ syst
 			j+=1
+		print (str(j) + ": Show All")
 		system = raw_input("Select a system\n")
+		rows, columns = os.popen('stty size', 'r').read().split()
 		i = 0
-		for row in reader:
-			if row[1] == systems[int(system)] and i < 4:
-				print row[0]+": " + row[2]
-				i+=1
+		#currSystem = 0
+		return showAll(file, int(rows), int(columns), int(row_count), int(system))
 
-		index = raw_input("Give me a game index to download. Enter 'n' to scroll down.\n")
-		f.close()
-		#print index, "this is the index"
+	
+def showAll(file, rows, cols, total, system):
+	currRow = 0
+	while(currRow < total):	
+		showX(file, rows, currRow, system)
+		temp = raw_input("Give me a game index to download. Enter 'n' to go to next page or 'p' to go to previous page")
+		if temp == 'n':
+			if (currRow+rows) < total:
+				currRow += rows
+		elif temp == 'p':
+			if(currRow >= rows):
+				currRow -= rows
+		else: 
+			return temp
+
+def showX(file, rows, start, system):
 	with open(file, 'rb') as f:
 		reader = csv.reader(f, delimiter="\t")
+		firstTime = 0
 		i = 0
-		if(index == 'n'):
-			
+		if(system == 14):
+			currSystem = 0
 			for row in reader:
-				if row[1] == systems[int(system)] and i >4:
+				if i < start:
+					i+=1
+					continue
+				elif i >= start and i < start + rows:
+					if currSystem != row[1]:
+						printfiglets(row[1])
+						currSystem = row[1]
+					print row[0] +": " + row[2]
+					i+=1
+		else:
+			for row in reader:
+				if i < start:
+					i += 1
+					continue
+				elif row[1] == systems[int(system)] and i >= start and i < rows:
 					print row[0]+": " + row[2]
-				i+=1
-		index = raw_input("Give me a game index to download.\n")
-
-		return index
-	
-
+					i+=1
+def printfiglets(system):
+	if system == "gbc":
+		figlet.gbc()
+	elif system == "sega32x":
+		figlet.sega32x()
+	elif system == "genesis":
+		figlet.genesis()
+	elif system == "segacd":
+		figlet.segacd()
+	elif system == "atari2600":
+		figlet.atari2600()
+	elif system == "n64":
+		figlet.n64()
+	elif system == "atari7800":
+		figlet.atari7800()
+	elif system == "gb":
+		figlet.gb()
+	elif system == "psp":
+		figlet.psp()
+	elif system == "snes":
+		figlet.snes()
+	elif system == "atarilynx":
+		figlet.atarilynx()
+	elif system == "gba":
+		figlet.gba()
+	elif system == "nes":
+		figlet.nes()
+	elif system == "psx":
+		figlet.psx()
+	else:
+		figlet.system()
 
 def scannerThing(file, index):	
 	with open(file, 'rb') as f:
@@ -86,8 +143,8 @@ def downloadAll(file, dest):
 
 index = printAvailableGames("games.txt")
 gamer = scannerThing("games.txt", int(index))
-destination = "/home/pi/RetroPie/roms/"+gamer[1]
-#destination = "roms/"+gamer[1]
+#destination = "/home/pi/RetroPie/roms/"+gamer[1]
+destination = "roms/"+gamer[1]
 dlUnzipper(gamer, destination)
 #downloadAll("games.txt", "roms/")
 print gamer[2]+" Was Downloaded Successfully!"
