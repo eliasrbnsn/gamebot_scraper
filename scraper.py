@@ -124,7 +124,7 @@ def main():
 	except IOError: 
 		print "cannot open file" "out"
 
-	out.write("index\tsystem\ttitle\turl\n")
+	#out.write("index\tsystem\ttitle\turl\n")
 
 	i = 1
 	for x in game_list:
