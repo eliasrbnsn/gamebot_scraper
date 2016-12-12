@@ -30,14 +30,15 @@ def printAvailableGames(file):
 def showAll(file, rows, cols, total, system):
 	currRow = 0
 	while(currRow < total):	
-		showX(file, rows, currRow, system)
+		skip = showX(file, rows, currRow, system)
 		temp = raw_input("Give me a game index to download. Enter 'n' to go to next page or 'p' to go to previous page")
 		if temp == 'n':
 			if (currRow+rows) < total:
 				currRow += rows
+				currRow -= skip
 		elif temp == 'p':
-			if(currRow >= rows):
-				currRow -= rows
+			if(currRow >= (rows-skip)):
+				currRow -= (rows-skip)
 		else: 
 			return temp
 
@@ -46,16 +47,19 @@ def showX(file, rows, start, system):
 		reader = csv.reader(f, delimiter="\t")
 		firstTime = 0
 		i = 0
+		skip = 2
 		if(system == 14):
 			currSystem = 0
 			for row in reader:
 				if i < start:
 					i+=1
 					continue
-				elif i >= start and i < start + rows:
+				elif i >= start and i < start + rows-2:
 					if currSystem != row[1]:
 						printfiglets(row[1])
 						currSystem = row[1]
+						i+=5
+						skip += 5
 					print row[0] +": " + row[2]
 					i+=1
 		else:
@@ -66,6 +70,7 @@ def showX(file, rows, start, system):
 				elif row[1] == systems[int(system)] and i >= start and i < rows:
 					print row[0]+": " + row[2]
 					i+=1
+		return skip
 def printfiglets(system):
 	if system == "gbc":
 		figlet.gbc()
@@ -141,10 +146,10 @@ def downloadAll(file, dest):
 				continue
 			dlUnzipper(row, dest+row[1])
 
-index = printAvailableGames("games.txt")
-gamer = scannerThing("games.txt", int(index))
-#destination = "/home/pi/RetroPie/roms/"+gamer[1]
-destination = "roms/"+gamer[1]
+index = printAvailableGames("games")
+gamer = scannerThing("games", int(index))
+destination = "/home/pi/RetroPie/roms/"+gamer[1]
+#destination = "roms/"+gamer[1]
 dlUnzipper(gamer, destination)
 #downloadAll("games.txt", "roms/")
 print gamer[2]+" Was Downloaded Successfully!"
