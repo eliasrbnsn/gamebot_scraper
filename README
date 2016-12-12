@@ -1,0 +1,48 @@
+   ______                     ____        __ 
+  / ____/___ _____ ___  ___  / __ )____  / /_
+ / / __/ __ `/ __ `__ \/ _ \/ __  / __ \/ __/
+/ /_/ / /_/ / / / / / /  __/ /_/ / /_/ / /_  
+\____/\__,_/_/ /_/ /_/\___/_____/\____/\__/  
+
+Authors: Elias Robinson and Jahan Khan
+Logins: egrobins, jakhan
+Date: 12/12/16
+Class: CS1600
+
+Project Description: 
+	GameBot is an all in one retro gaming system for handheld and tabletop gameplay. Implementing RetroPie, our system is capable
+
+Hardware: 
+	1.) Purchased Parts
+		a.) Raspberry Pi 3 B
+		b.) LCD Screen
+		c.) Button Pad PCB
+		d.) Audio Amplifier Chip & Speakers
+		e.) Battery Pack
+	
+	2.) 3D Printing: designed shell for bottom of case to hold all parts in place. We printed two separate parts that fit together to hold all of our hardware in place. All designs were created using SketchUp Make, and printed with the MakerBots in Prince Lab. For the top of the case, we used a transparent polycarbonate sheet that we drilled and cut to accomodate our buttons and speakers. 
+
+	A small portion of one of the two 3D printed files we used was based on a file found on thingiverse.com, shown below in our attributions. 
+
+
+Software: 
+	1.) getRoms: 
+
+
+
+
+
+
+Attributions: 
+	1. RetroPie: versatile emulation software that supplements the Raspbian OS on a Raspberry Pi to allow gameplay of many different retro games for systems ranging from a GameBoy to a PSP. It is built on a set of other emulation softwares, two of which are listed below. More info can be found here: https://retropie.org.uk/
+		a.) Emulation Station - the frontend for launching games on RetroPie. EmulationStation provides a customizable GUI for playing games on the various emulators that RetroPie supports.
+		b.) RetroArch - the frontend for the Libretro API, which standardizes controller input for different systems and adds features for some emulators. 
+
+	2. RetroGame: software to map the Raspberry Pi's GPIO pins to keyboard keys. Using this software enabled us to wire our button pad directly to the I/O pins of the Pi. When a pin grounded by pressing one of our buttons, RetroGame sends a button pressed signal to RetroPie. When the pin is no longer grounded, RetroGame sends a button released signal. 
+
+	3. NightHacking RetroPi 3D Modeled Case - http://www.thingiverse.com/thing:993901
+		To print our case, we started with the "RetroPi_Console_Base.stl" file found here. Using sketchup, we deleted most all of the initial file with the exception of the gaps for the USB ports, HDMI ports, and sd card slot. Also, we kept the knobs at the base of the model to anchor the Raspberry Pi to the case. From here, we built the rest of the case to fit our battery pack, speakers, button pad PCB, buttons, and screen. If you look at the files found at the URL above, you will find that our case looks very different, and was only based lightly on these files. 
+
+
+
+
