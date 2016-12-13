@@ -10,27 +10,30 @@ Date: 12/12/16
 Class: CS1600
 
 Project Description: 
-	GameBot is an all in one retro gaming system for handheld and tabletop gameplay. Implementing RetroPie, our system is capable
+	GameBot is an all in one retro gaming system for handheld and tabletop gameplay. Implementing RetroPie, our system is capable of emulating 52 different retro gaming systems ranging from the Sega Genesis to the more modern PSP. Build on RetroPie's functionality, GameBot supports both handheld and table top play, with a built in LCD screen, speakers, and button pad, as well as external HDMI display output and USB controller input capabilities. 
 
 Hardware: 
 	1.) Purchased Parts
 		a.) Raspberry Pi 3 B
-		b.) LCD Screen
-		c.) Button Pad PCB
-		d.) Audio Amplifier Chip & Speakers
-		e.) Battery Pack
+		b.) 3.5" LCD Screen - runs off of 12V. We had to make modifications to the circuit board of the LCD screen we purchased to run off of the Pi's 5V output. To do this, we ran the screen on 12V, and used a multimeter to find a voltage drop of 5V by prodding connections before and after various capacitors on the board. After finding a voltage drop around 5.2V between a pin of a capacitor and the ground, we soldered the 5V input of the Pi to the screen and it ran as planned. 
+		c.) Button Pad PCB - wired to the GPIO pins of the Pi. When a pin is grounded, sends a button signal.
+		d.) Audio Amplifier Chip & Speakers - wired to the composite output of the Pi. Switched on only when HDMI output is not plugged in. 
+		e.) Battery Pack - 5V output to power the Pi and all subsequent parts.
+		f.) USB controller
 	
-	2.) 3D Printing: designed shell for bottom of case to hold all parts in place. We printed two separate parts that fit together to hold all of our hardware in place. All designs were created using SketchUp Make, and printed with the MakerBots in Prince Lab. For the top of the case, we used a transparent polycarbonate sheet that we drilled and cut to accomodate our buttons and speakers. 
+	2.) 3D Printing: designed shell for bottom of case to hold all parts in place. We printed two separate parts that fit together to hold all of our hardware in place. The bottom of the case holds our Raspberry Pi 3 B in place with no need for glue using pins that fit snugly into the Pi's corner holes. Above the Pi, our button pad PCB sits pressed to the polycarbonate top face for convenient GameBoy style handheld gaming. Next to the Pi, our battery is held in place with holes on the side of the case for easy charging and turning on/off. Above that, our 3.5" LCD display is mounted to the case. All designs were created using SketchUp Make, and printed with the MakerBots in Prince Lab. For the top of the case, we used a transparent polycarbonate sheet that we drilled and cut to accomodate our buttons and speakers. 
 
-	A small portion of one of the two 3D printed files we used was based on a file found on thingiverse.com, shown below in our attributions. 
+
 
 
 Software: 
-	1.) getRoms: 
+	1.) getRoms: program used to download and install games of your choosing from the internet to play on the GameBot. Deals with all necesarry integration into emulation software to play immediately after the script terminates.
 
+		a.) scraper.py: this script forms some of the backend of the program. It scrapes the popular ROM hosting website emuparadise.me for download links to a collection of games on 14 of the different systems supported by our emulation software. We configured the script to find the top 10 (more for some systems) most downloaded games for our favorite retro gaming systems. The script takes nothing as input and sents output to a tab-separated file for our download module to parse when run. Output takes the form of index \t game_system \t game_name \t download_link. Each link downloads a compressed ROM file when accessed. The script can be expanded to all 52 of the gaming systems supported, but we decided to limit it to 14 more popular systems based on the available ROM selection on emulationstation and to avoid the risk of downloading corrupt files.
 
+		b.) romdl.py: this python script is used to download and extract roms from the internet. The input required to run gameBot is a tsv file that contains the system, title, and url of the the games possible to download and a destination to put the game into. There are two options you can choose for downloading a game – you can see the available games for a specific system or you can see a comprehensive list of all the games that can be downloaded. Each game has a number next to its name and by entering that number into stdin you begin to download the game. The program requests the url for that game while setting several cookies to avoid having captcha and redirection issues. The request is then written into a file and runs a universal archiver on the newly written file to determine the type of file you have downloaded and then extract the file(s) to the designated folder. We then remove all unnecessary files that were downloaded during the process (.zip, etc…) and complete the script. 
 
-
+		c.) Running program: after exiting RetroPie with f4, run "python getRoms" from /home/pi, where the files are stored. The terminal prompts lead you through the rest. Must have working network connection through the ethernet port. 
 
 
 Attributions: 
@@ -39,9 +42,6 @@ Attributions:
 		b.) RetroArch - the frontend for the Libretro API, which standardizes controller input for different systems and adds features for some emulators. 
 
 	2. RetroGame: software to map the Raspberry Pi's GPIO pins to keyboard keys. Using this software enabled us to wire our button pad directly to the I/O pins of the Pi. When a pin grounded by pressing one of our buttons, RetroGame sends a button pressed signal to RetroPie. When the pin is no longer grounded, RetroGame sends a button released signal. 
-
-	3. NightHacking RetroPi 3D Modeled Case - http://www.thingiverse.com/thing:993901
-		To print our case, we started with the "RetroPi_Console_Base.stl" file found here. Using sketchup, we deleted most all of the initial file with the exception of the gaps for the USB ports, HDMI ports, and sd card slot. Also, we kept the knobs at the base of the model to anchor the Raspberry Pi to the case. From here, we built the rest of the case to fit our battery pack, speakers, button pad PCB, buttons, and screen. If you look at the files found at the URL above, you will find that our case looks very different, and was only based lightly on these files. 
 
 
 
