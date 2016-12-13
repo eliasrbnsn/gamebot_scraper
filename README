@@ -10,7 +10,7 @@ Date: 12/12/16
 Class: CS1600
 
 Project Description: 
-	GameBot is an all in one retro gaming system for handheld and tabletop gameplay. Implementing RetroPie, our system is capable of emulating 52 different retro gaming systems ranging from the Sega Genesis to the more modern PSP. Build on RetroPie's functionality, GameBot supports both handheld and table top play, with a built in LCD screen, speakers, and button pad, as well as external HDMI display output and USB controller input capabilities. 
+	GameBot is an all in one retro gaming system for handheld and tabletop gameplay. Implementing RetroPie, our system is capable of emulating 52 different retro gaming systems ranging from the SEGA Genesis to the more modern PSP. Build on RetroPie's functionality, GameBot supports both handheld and table top play, with a built in LCD screen, speakers, and button pad, as well as external HDMI display output and USB controller input capabilities. When opened with an HDMI plugged in, GameBot will output video and audio to an external screen. Otherwise, GameBot can be played handheld with no external connections. The game system is streamlined to open on boot with a custom splashscreen video to give the system a futuristic feeling while still giving users the classic GameBoy experience. 
 
 Hardware: 
 	1.) Purchased Parts
