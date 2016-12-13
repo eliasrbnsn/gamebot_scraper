@@ -7,6 +7,8 @@ import cookielib
 import os
 import csv
 import figlet
+import subprocess
+from pyunpack import Archive
 
 systems = ['gbc', 'sega32x', 'genesis', 'segacd', 'atari2600', 'n64', 'atari7800', 'gb', 'psp', \
 			'snes', 'atarilynx', 'gba', 'nes', 'psx']
@@ -126,14 +128,16 @@ def dlUnzipper(row, dest):
 	request = opener.open( download )
 	#save
 	#output = open("intasll.zip", "w")
-	name = str(row[2])+".zip"
+	name = str(row[2])#+".zip"
 	output = open(name, "w")
 	output.write(request.read())
 	output.close()
 
-	z = zipfile.ZipFile(name)
-	z.extractall(dest)
-	z.close()
+	#z = zipfile.ZipFile(name)
+	#z.extractall(dest)
+	#z.close()
+	
+	Archive(name).extractall(dest)
 	os.remove(name)
 
 def downloadAll(file, dest):
@@ -146,10 +150,10 @@ def downloadAll(file, dest):
 				continue
 			dlUnzipper(row, dest+row[1])
 
-index = printAvailableGames("games")
-gamer = scannerThing("games", int(index))
-destination = "/home/pi/RetroPie/roms/"+gamer[1]
-#destination = "roms/"+gamer[1]
+index = printAvailableGames("games.txt")
+gamer = scannerThing("games.txt", int(index))
+#destination = "/home/pi/RetroPie/roms/"+gamer[1]
+destination = "roms/"+gamer[1]
 dlUnzipper(gamer, destination)
 #downloadAll("games.txt", "roms/")
 print gamer[2]+" Was Downloaded Successfully!"
