@@ -35,7 +35,9 @@ Software:
 
 		c.) Running program: after exiting RetroPie with f4, run "python getRoms" from /home/pi, where the files are stored. The terminal prompts lead you through the rest. Must have working network connection through the ethernet port. 
 
-	2.) extras: We also created several shell and C++ scripts to allow easy customization within the Emulation Station front-end. Some of these included scripts to allow easy switching between audio ports (hdmi to headphone jack or composite sound) and buttons in the RetroPie/EmulationStation gui that run the getRoms script or allow for easier changes between RetroPie themes. We also edited the startup script for Raspberry Pi to run our homemade video instead of the loading terminal commands. We created the video in Adobe AfterEffects and used the flare library. Much of the software is directly connected to the RetroPie code and cannot be run without a Raspberry Pi running RetroPie so we have excluded them from the handin. 
+	2.) Extras: We also created several shell and C++ scripts to allow easy customization within the Emulation Station front-end. Some of these included scripts to allow easy switching between audio ports (hdmi to headphone jack or composite sound) and buttons in the RetroPie/EmulationStation gui that run the getRoms script or allow for easier changes between RetroPie themes. We also edited the startup script for Raspberry Pi to run our personally designed video splashcreen instead of displaying the Pi's startup scripts and terminal commands. We created the video in Adobe AfterEffects using the flare library. Much of the software is directly connected to the RetroPie code and cannot be run without a Raspberry Pi running RetroPie, so we have excluded them from the handin. 
+
+
 
 
 
